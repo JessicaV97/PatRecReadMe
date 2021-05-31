@@ -48,7 +48,7 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 This project is an internship assignment which contributes to the suitceyes project. 
 The aim is to provide people with deafblindness a tool that helps them learn or improve recognition of social haptic communication patterns emulated by vibration motors by means of gamified learning. Still, the tool can also be used without deafblindess. 
-The tool, PatRec, is a software application that available for Android OS and needs to be combined with hardware, a chairable, in order to be useful.
+PatRec, is a software application available for Android OS and needs to be combined with hardware, a chairable, in order to be useful.
 The chairable is a wearable put over the backrest of a chair with 9 vibration motors positioned grid-wise (3x3), with 1,5 times the distance vertically between the motors compared to horizontally. 
 
 ### Built With
