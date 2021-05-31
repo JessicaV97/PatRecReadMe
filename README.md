@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="left">
-  <a href="https://github.com/JessicaV97/PatRec.gite">
+  <a href="https://github.com/JessicaV97/PatRec.git">
     <img src="images/IconUnity.png" alt="Logo" width="80" height="80">
   </a>
 </p>
