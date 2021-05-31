@@ -11,8 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/JessicaV97/PatRec.gite">
+    <img src="images/IconUnity.png" alt="Logo" width="80" height="80">
   </a>
 </p>
 
@@ -56,7 +56,6 @@ The chairable is a wearable put over the backrest of a chair with 9 vibration mo
 PatRec was built with: 
 * [Figma](https://www.figma.com/downloads/)
 * [Unity](https://unity.com/)
-* [Laravel](https://laravel.com)
 
 
 
@@ -80,9 +79,9 @@ To get a local copy up and running follow these simple example steps.
 This project is open source. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
+3. Commit your Changes (`git commit -m 'Add some features'`)
+4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
 
