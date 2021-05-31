@@ -10,7 +10,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<p align="left">
   <a href="https://github.com/JessicaV97/PatRec.gite">
     <img src="images/IconUnity.png" alt="Logo" width="80" height="80">
   </a>
